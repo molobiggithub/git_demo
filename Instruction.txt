@@ -1,0 +1,14 @@
+git init
+git remote add origin "Path For gitHub"
+git pull origin master 
+git status
+git add
+git commit -m
+Set email and User 
+git log 
+git add . 
+git status
+git commit -m "chang test1"
+ git branch firstbranch
+git checkout ""
+git merge Name branch 
